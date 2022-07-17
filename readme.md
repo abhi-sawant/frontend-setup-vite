@@ -2,8 +2,6 @@
 
 ## This is a boilerplate setup to quickly get you started with your front-end projects.
 
----
-
 Just clone or download the repository to you local machine and run
 
 `npm i`
